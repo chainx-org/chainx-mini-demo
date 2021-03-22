@@ -1,0 +1,18 @@
+{
+  "name": "testpcx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chainx-v2/account": "^0.0.50",
+    "@chainx-v2/api": "^0.0.50",
+    "@polkadot/api": "^2.4.1",
+    "@polkadot/util-crypto": "^3.6.1",
+    "@polkadot/util": "^3.6.1"
+  }
+}
